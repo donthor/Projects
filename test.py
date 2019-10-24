@@ -1,2 +1,2 @@
 string = 'hello'
-print (string.strip('ell'))
+print ("this strips the 'h' character",string.strip('h'))
